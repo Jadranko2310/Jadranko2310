@@ -7,7 +7,7 @@ we are having hands on is trying to resolve will lead to quality architecture, s
 software. Of course, with quality resource, knowledge, organization and experience that team has.
 So I decided to continue my personal development in learning and working on quality aspect of software as QAA and I did not regret.
 
-I enjoy working in software planning, analizing the project and trying to predict potential of the weak spots of the application. Also, I have hands on preparing data
+I enjoy working in software planning, analizing the project and trying to predict the potential weak spots of the application. Also, I have hands on preparing data
 for testing while predicting the trafic and user behavior after deployment, creating test cases based on user stories, working on API testing, frontent testing, developing 
 the project for test backend and frontent test automation, building the strategy for performence testing based on defined KPY's and executing it.
 
