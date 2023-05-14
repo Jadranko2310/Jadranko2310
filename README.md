@@ -9,7 +9,7 @@ So I decided to continue my personal development in learning and working on qual
 
 I enjoy working in software planning, analizing the project and trying to predict the potential weak spots of the application. Also, I have hands on preparing data
 for testing while predicting the trafic and user behavior after deployment, creating test cases based on user stories, working on API testing, frontent testing, developing 
-the project for test backend and frontent test automation, building the strategy for performence testing based on defined KPY's and executing it.
+the project for the backend and frontent test automation, building the strategy for performence testing based on defined KPY's and executing it.
 
 So far I was working with Postman, Filder, Rest Assured, Selenium, Gatling, JMeter, Appium. These are the tools I have in experience, but my point of view is that language
 and framework we are using are appropriate tool we chose for achieving the development goal and not main point of work per se. Java is  the language I am most comfortable but if 
