@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 Hi,
 I am Jadranko, working as QAA with full commitment in this role not just in matter of work, but learning different concepts, tools and frameworks.
 
@@ -14,3 +15,4 @@ My personal definition of QA in a team is that this is the person that will prov
 to client and not the guy who is blaming or pointing the finger. If you found the bug, well done, but it is not the celebration song you need to sing so loudly. 
 
 If you are still reading, you are not bored so much, so please take a look at few projects at my account.
+</div>
