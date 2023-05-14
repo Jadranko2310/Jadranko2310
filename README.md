@@ -13,4 +13,4 @@ So far I was working with Postman, Filder, Rest Assured, Selenium, Gatling, JMet
 My personal definition of QA in a team is that this is the person that will provide all possible help to developers with goal of delivering as quality as possible application
 to client and not the guy who is blaming or pointing the finger. If you found the bug, well done, but it is not the celebration song you need to sing so loudly. 
 
-If you are still reading, you are not borred so much, so please take a look at few projects at my account.
+If you are still reading, you are not borred so much, so please take a look at few projects at my account..
