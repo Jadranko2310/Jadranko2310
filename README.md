@@ -13,7 +13,7 @@ the project for the backend and frontend test automation, building the strategy 
 
 So far I was working with Postman, Filder, Rest Assured, Selenium, Gatling, JMeter, Appium etc. These are the tools I have in experience, but my point of view is that language and framework we are using are appropriate tools we chose for achieving the development goal and not main point of work per se. Java is  the language I am most comfortable but if the quality of project goal will demand other language or new framework, I will put my best effort in learning it. 
 
-![](https://github.com/Jadranko2310/Jadranko2310/assets/133195879/ae895639-0477-4435-9466-94a640d5a904.png| width=50px)
+![img|320x271,50%](https://github.com/Jadranko2310/Jadranko2310/assets/133195879/ae895639-0477-4435-9466-94a640d5a904.png)
 
 My personal definition of QA in a team is that this is the person that will provide all possible help to developers with goal of delivering as quality as possible application
 to client and not the guy who is blaming or pointing the finger. If you found the bug, well done, but it is not the celebration song you need to sing so loudly. 
