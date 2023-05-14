@@ -7,6 +7,7 @@ I started working in IT in 2019 helping end users to manage their business using
 I enjoy working in software planning, analyzing the project and trying to predict the potential weak spots of the application. Also, I have hands on preparing data.
 for testing while predicting the traffic and user behavior after deployment, creating test cases based on user stories, working on API testing, frontend testing, developing 
 the project for the backend and frontend test automation, building the strategy for performance testing based on defined KPY's and executing it.
+  </div>
 
 So far, I was working with Postman, Filder, Rest Assured, Selenium, Gatling, JMeter, Appium etc. These are the tools I have in experience, but my point of view is that language and framework we are using are appropriate tools we chose for achieving the development goal and not main point of work per se. Java is the language I am most comfortable but if the quality of project goal will demand other language or new framework, I will put my best effort in learning it. 
 <img src= https://github.com/Jadranko2310/Jadranko2310/assets/133195879/efd3c3f2-f7cb-4775-97cd-2a23ee4a75b0.png width="800" height="230">
@@ -15,4 +16,4 @@ My personal definition of QA in a team is that this is the person that will prov
 to client and not the guy who is blaming or pointing the finger. If you found the bug, well done, but it is not the celebration song you need to sing so loudly. 
 
 If you are still reading, you are not bored so much, so please take a look at few projects at my account.
-</div>
+
