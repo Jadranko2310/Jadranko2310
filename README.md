@@ -9,11 +9,10 @@ So I decided to continue my personal development in learning and working on qual
 
 I enjoy working in software planning, analizing the project and trying to predict the potential weak spots of the application. Also, I have hands on preparing data
 for testing while predicting the trafic and user behavior after deployment, creating test cases based on user stories, working on API testing, frontent testing, developing 
-the project for the backend and frontent test automation, building the strategy for performence testing based on defined KPY's and executing it.
+the project for the backend and frontend test automation, building the strategy for performence testing based on defined KPY's and executing it.
 
 So far I was working with Postman, Filder, Rest Assured, Selenium, Gatling, JMeter, Appium. These are the tools I have in experience, but my point of view is that language
-and framework we are using are appropriate tool we chose for achieving the development goal and not main point of work per se. Java is  the language I am most comfortable but if 
-the quality of project goal will demand other language or new framework, I will put my best effort in learning it. 
+and framework we are using are appropriate tools we chose for achieving the development goal and not main point of work per se. Java is  the language I am most comfortable but if the quality of project goal will demand other language or new framework, I will put my best effort in learning it. 
 
 My personal definition of QA in a team is that this is the person that will provide all possible help to developers with goal of delivering as quality as possible application
 to client and not the guy who is blaming or pointing the finger. If you found the bug, well done, but it is not the celebration song you need to sing so loudly. 
